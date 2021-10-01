@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Alexzoin
+- 👀 I’m interested in game development.
+- 🌱 I’m currently learning networking.
+- 💞️ I’m looking to collaborate on games.
+- 📫 How to reach me: twitter.
